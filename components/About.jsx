@@ -15,7 +15,7 @@ const About = () => {
       <div className='flex justify-between items-center  h-screen ml-10 bg-fixed bg-center bg-cover'>
 
         <p data-aos="fade-up" className=' text-center lg:text-justify max-w-[480px] text-2xl font-bold m-10 pl-4'>Our team have more than 10 years of experience in RF Technologies. We are providing the best services and products to handle a challenging and sensitive situations</p>
-        <div data-aos="fade-left" className=' invisible  h-screen w-screen relative lg:visible'><Image src="/../public/btst.webp" alt="bts" objectFit="contain" layout='fill' /></div>
+        <div data-aos="fade-left" className=' invisible  h-screen w-screen relative lg:visible'><Image src="/../public/btst.webp" alt="" objectFit="contain" layout='fill' /></div>
 
 
       </div>
