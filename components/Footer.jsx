@@ -32,7 +32,7 @@ const Footer = () => {
 
 			</div>
 			<div className="flex py-4 flex-col justify-center items-center text-center  pb-5 bg-gray-50 dark:bg-[#1c1c1c] ">
-				<h1 className=" text-gray-800 dark:text-white font-semibold dark:bg-[#1c1c1c]">©All rights reserved.  PT. Finik Teknologi Solusi 2022</h1>
+				<h1 className=" text-gray-800 dark:text-white font-semibold dark:bg-[#1c1c1c]">©All rights reserved.  PT. Finik Teknologi Solusi t 2022</h1>
 			</div>
 		</div>
 	)
