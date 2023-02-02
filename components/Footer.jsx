@@ -8,7 +8,7 @@ const Footer = () => {
 			<div className="bg-gray-50 h-1/2 w-full flex md:flex-row flex-col justify-around items-start p-10 dark:bg-[#3d3d3d]">
 				<div className="p-5 ">
 					<ul>
-						<Image alt="" src='/../public/logo_full.webp' width="100" height="130" />
+						<Image alt="" src='https://raw.githubusercontent.com/bobyakbr/finik/main/public/logo_full.webp' width="100" height="130" />
 
 					</ul>
 				</div>
